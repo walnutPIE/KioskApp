@@ -1,2 +1,0 @@
-# KioskApp
-Created with CodeSandbox
